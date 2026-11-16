@@ -1,4 +1,4 @@
-# Anyquery
+#Anyquery
 
 <img src="https://anyquery.dev/images/logo-shadow.png" alt="Anyquery logo" width="96"></img>
 
